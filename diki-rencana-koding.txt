@@ -1,4 +1,6 @@
 rencana koding diki
 - javascript
+* ES6
+* Javascript Frameworks
 - php frameworks
 - phyton
