@@ -1,0 +1,4 @@
+rencana koding diki
+- javascript
+- php frameworks
+- phyton
